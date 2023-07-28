@@ -20,3 +20,14 @@ The C# curve is pretty linear, which is not surprising since I have been working
 companies since 2008 and therefore use C# a lot during my work life. What is interesting, however
 is that for the last three years I have not actively assumed the role of a software developer
 and _still_ maintained a linear progression there.
+
+This also tells a story about COVID. During the period of 2020..2022, a lot of work was done from
+home. The below plot shows the deviation of my actual C# coding times from a linear regression
+model (R²≈0.99) in terms of cumulative sum of programming hours. As is obvious, this number rises
+both in late 2019 and late 2020, to slowly and then drastically decline in 2022. If one were to look
+for symptoms of a burnout, they're right there.
+
+![](images/post_covid_burnout.png)
+
+There is also an interesting apparent seasonality in the deviations that would be interesting to
+analyze further.
