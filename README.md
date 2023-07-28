@@ -1,7 +1,8 @@
 # Exploratory Analysis of my Coding Stats
 
 A simple exploratory analysis of my coding stats. I use WakaTime since late 2016 to track my
-use of programming languages and periodically fetch the daily stats from the WakaTime API. Since
+use of programming languages and periodically fetch the daily stats from the WakaTime API (see e.g.
+my [coding-stats.json Gist](https://gist.github.com/sunsided/667936bd0d4d5f042ea4e6726c5faccb)). Since
 recording only started in 2016, large chunks of C#, C/C++, Matlab and other languages are missing.
 
 In this repo, I ran some trivial analytics from those JSON files. If for whatever reason you are
