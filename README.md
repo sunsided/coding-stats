@@ -18,7 +18,7 @@ writing Rust code as I spent time writing Python code since the recording starte
 
 The C# curve is pretty linear, which is not surprising since I have been working in .NET focused
 companies from 2008 until 2025 and therefore used C# a lot during my work life. What is interesting, 
-however, is that for at multiple years I had not actively assumed the role of a software developer
+however, is that for multiple years I had not actively assumed the role of a software developer
 and _still_ maintained a linear progression there. The same story later on repeated with Rust.
 
 This also tells a story about COVID. During the period of 2020..2022, a lot of work was done from
