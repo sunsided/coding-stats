@@ -1,3 +1,5 @@
+.env
+.env.*
 /history
 *.csv
-!redacted.csv
+!redacted.cs
